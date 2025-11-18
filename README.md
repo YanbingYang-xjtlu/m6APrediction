@@ -14,3 +14,8 @@ devtools::install_github("YourGitHubUserName/m6APrediction")
 # Or use the remotes package
 install.packages("remotes")
 remotes::install_github("YourGitHubUserName/m6APrediction")
+
+### ROC Curve
+！[alt text] (man/ROC.png)
+### PRC Curve
+! [alt text] (man/PRC.png)
