@@ -15,7 +15,11 @@ devtools::install_github("YourGitHubUserName/m6APrediction")
 install.packages("remotes")
 remotes::install_github("YourGitHubUserName/m6APrediction")
 
+## Model Performance Demonstration
+
 ### ROC Curve
-！[alt text] (man/ROC.png)
+![ROC Curve](man/ROC.png)
+
 ### PRC Curve
-! [alt text] (man/PRC.png)
+![PRC Curve](man/PRC.png)
+
