@@ -14,6 +14,7 @@ devtools::install_github("YourGitHubUserName/m6APrediction")
 # Or use the remotes package
 install.packages("remotes")
 remotes::install_github("YourGitHubUserName/m6APrediction")
+```
 
 ## Model Performance Demonstration
 
@@ -22,4 +23,5 @@ remotes::install_github("YourGitHubUserName/m6APrediction")
 
 ### PRC Curve
 ![PRC Curve](man/PRC.png)
+
 
