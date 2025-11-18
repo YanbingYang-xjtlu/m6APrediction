@@ -1,0 +1,12 @@
+Package: m6APrediction
+Title: m6A Prediction Tool for Biological Sequences
+Version: 1.0.0
+Authors@R: 
+    person("Yanbing", "Yang", , "Yanbing.Yang23@xjtlu.edu.cn", role = c("aut", "cre"))
+Description: A package for predicting m6A methylation sites in RNA sequences with advanced algorithms.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: stats, randomForest
+Depends: R (>= 3.5.0)
